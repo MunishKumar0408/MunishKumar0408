@@ -5,11 +5,11 @@
 
 I enjoy transforming raw data into meaningful insights, building interactive dashboards, and developing Python-powered data applications.
 
-- 🔭 Exploring data analytics, business intelligence, and AI-powered applications
-- 📊 Interested in data visualization, reporting, and data-driven decision-making
-- 🤖 Learning machine learning, LLM applications, and automation
-- 🌱 Continuously improving my Python, SQL, and analytics skills
-- 💻 Explore my projects below!
+- 📊 Interested in data analytics, reporting, and business intelligence
+- 🐍 Working with Python, Pandas, NumPy, and SQL
+- 🤖 Exploring machine learning and AI-powered applications
+- 📈 Interested in data visualization and data-driven decision-making
+- 🚀 Building projects to strengthen my practical skills
 
 ---
 
@@ -19,7 +19,7 @@ I enjoy transforming raw data into meaningful insights, building interactive das
   <a href="https://github.com/MunishKumar0408">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/munish-kumar-data/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/munish_1203/">
@@ -43,20 +43,18 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🐍 Python & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### ⚙️ Development & Tools
+### ⚙️ Development Tools
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -67,46 +65,26 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🤖 AI Data Analyst Dashboard
 
-An AI-powered data analysis application that allows users to ask questions about a dataset in natural language and explore insights using Python.
+An AI-powered data analysis application that lets users ask questions about a dataset in natural language and explore insights using Python.
 
 **Technologies:** Python, Pandas, Streamlit, OpenRouter API
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MunishKumar0408/ai-data-analyst-dashboard)
 
-### 📊 E-Commerce Product Quality Dashboard
-
-A data visualization project focused on product listing quality, error rates, category performance, and quality metrics.
-
-**Technologies:** Tableau, Excel, Data Visualization
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MunishKumar0408?tab=repositories)
-
-### 🗄️ SQL & Data Analysis Projects
-
-Explore my repositories for SQL practice, data analysis, and database-related projects.
-
-[![Explore SQL Projects](https://img.shields.io/badge/Explore_Projects-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/MunishKumar0408?tab=repositories)
-
-### 📈 Dashboards & Business Intelligence
-
-Explore my work related to business reporting, dashboard design, and data visualization.
-
-[![Explore Dashboards](https://img.shields.io/badge/Explore_Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/MunishKumar0408?tab=repositories)
+[Explore all my repositories →](https://github.com/MunishKumar0408?tab=repositories)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MunishKumar0408&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunishKumar0408&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MunishKumar0408&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs" alt="GitHub Statistics"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunishKumar0408&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -114,28 +92,10 @@ Explore my work related to business reporting, dashboard design, and data visual
   <img src="https://streak-stats.demolab.com?user=MunishKumar0408&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
----
-
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MunishKumar0408&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MunishKumar0408/MunishKumar0408/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 👁️ Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MunishKumar0408&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MunishKumar0408&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
@@ -145,5 +105,5 @@ Explore my work related to business reporting, dashboard design, and data visual
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <img src="https://komarev.com/ghpvc/?username=MunishKumar0408&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
